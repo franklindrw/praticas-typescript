@@ -1,0 +1,16 @@
+{
+    "name": "typescript-aulas",
+    "version": "1.0.0",
+    "description": "aulas sobre javascript que fiz em typescript para aperfeicoar mais a linguagem",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsnd",
+        "build": "tsc"
+    },
+    "author": "franklin.drw",
+    "license": "MIT",
+    "devDependencies": {
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^4.9.3"
+    }
+}
